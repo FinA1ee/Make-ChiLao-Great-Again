@@ -1,0 +1,10 @@
+.mcga-home-page {
+  width: 50%;
+  margin: 50% auto;
+}
+
+.mcga-home-page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
